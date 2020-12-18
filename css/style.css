@@ -1,0 +1,18 @@
+#text {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.h1 small {
+  font-size: 24px;
+}
+.jumbotron {
+  background: #358cce;
+  color: #fff;
+  border-radius: 0px;
+}
+.jumbotron-sm {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.jumbotron small {
+  color: #fff;
+}
