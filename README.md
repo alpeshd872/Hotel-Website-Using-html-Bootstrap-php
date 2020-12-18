@@ -1,6 +1,9 @@
 Requirement to run this website 
+
 1.Install xampp on your machine to download that click on this link : https://www.apachefriends.org/download.html   
+
 2.Install any code editor to modify things as per your need i used vs code : https://code.visualstudio.com/
+
 3.2 RAM GB minimun requirement
 
 
