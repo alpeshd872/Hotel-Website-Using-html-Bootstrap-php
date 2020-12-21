@@ -23,7 +23,7 @@ To deploy this website on your local xampp server please follow the given steps
 
 4.Congratulations your website is on your local server now
 
-<img src="screenshots/website.PNG ">
+<img src="screenshots/website.png">
 
 To Create database for the contact us and booking page
 
